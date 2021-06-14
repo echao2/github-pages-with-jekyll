@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my website"
 ---
 
-Hey !
+hey ! Here's an information dump about me
